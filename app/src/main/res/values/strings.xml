@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title">My BMI!</string>
+    <string name="height">身高 (cm)</string>
+    <string name="weight">體重 (kg)</string>
+    <string name="buttonCal">計算BMI</string>
+    <string name="result">你的BMI值是</string>
+    <string name="advice_light">瘦皮猴</string>
+    <string name="advice_average">DCC</string>
+    <string name="advice_heavy">死胖子</string>
+</resources>
